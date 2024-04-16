@@ -1,0 +1,7 @@
+driver_path: C:\Users\lahja\GB\WEB_selenium\chrome-win64\chrome-win64\chrome.exe
+sleep_time: 10
+address: https://test-stand.gb.ru
+browser: chrome
+status_error: '401'
+username: 'secondone'
+password: 'bdefe21531'
